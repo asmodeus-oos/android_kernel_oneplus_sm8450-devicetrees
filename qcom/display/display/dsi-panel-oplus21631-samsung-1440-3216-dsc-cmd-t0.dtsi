@@ -1,3 +1,4 @@
+// Signed-off-by: Bubun Das <bubundas17@gmail.com>
 &mdss_mdp {
 	dsi_oplus21631_samsung_1440_3216_dsc_cmd_t0: qcom,mdss_dsi_oplus21631_samsung_1440_3216_dsc_cmd_t0 {
 		qcom,mdss-dsi-panel-name = "samsung S6E3HC3 dsc cmd mode panel 21631";
